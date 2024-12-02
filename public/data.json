@@ -1,0 +1,103 @@
+[
+    {
+      "unique_id": "1",
+      "coverImg": "https://i.ibb.co/YksftJt/2.jpg",
+      "author_img": "../src/assets/images/9.png",
+      "author_name": "John Doe",
+      "date": "2024-11-28",
+      "headline": "Exploring the Depths of AI Technology",
+      "tags": ["#AI", "#Technology"],
+      "reading_time": "5"
+    },
+    {
+      "unique_id": "2",
+      "coverImg": "https://i.ibb.co/sg6nFw9/3.jpg",
+      "author_img": "../src/assets/images/9.png",
+      "author_name": "Jane Smith",
+      "date": "2024-11-27",
+      "headline": "The Future of Remote Work in 2025",
+      "tags": ["#RemoteWork", "#FutureOfWork"],
+      "reading_time": "6"
+    },
+    {
+      "unique_id": "3",
+      "coverImg": "https://i.ibb.co/mt6vNyj/4.jpg",
+      "author_img": "../src/assets/images/9.png",
+      "author_name": "Emily White",
+      "date": "2024-11-26",
+      "headline": "5 Tips for Better Digital Marketing",
+      "tags": ["#Marketing", "#DigitalStrategy"],
+      "reading_time": "4"
+    },
+    {
+      "unique_id": "4",
+      "coverImg": "https://i.ibb.co/RTmtqTL/5.jpg",
+      "author_img": "../src/assets/images/9.png",
+      "author_name": "Michael Brown",
+      "date": "2024-11-25",
+      "headline": "How Blockchain Will Revolutionize Finance",
+      "tags": ["#Blockchain", "#Finance"],
+      "reading_time": "7"
+    },
+    {
+      "unique_id": "5",
+      "coverImg": "https://i.ibb.co/XYdnCGG/6.jpg",
+      "author_img": "../src/assets/images/9.png",
+      "author_name": "Olivia Green",
+      "date": "2024-11-24",
+      "headline": "The Impact of Artificial Intelligence on Healthcare",
+      "tags": ["#AI", "#Healthcare"],
+      "reading_time": "8"
+    },
+    {
+      "unique_id": "6",
+      "coverImg": "https://i.ibb.co/sg6nFw9/3.jpg",
+      "author_img": "../src/assets/images/9.png",
+      "author_name": "David Johnson",
+      "date": "2024-11-23",
+      "headline": "Understanding the Rise of E-Commerce",
+      "tags": ["#Ecommerce", "#Business"],
+      "reading_time": "5"
+    },
+    {
+      "unique_id": "7",
+      "coverImg": "https://i.ibb.co/YksftJt/2.jpg",
+      "author_img": "../src/assets/images/9.png",
+      "author_name": "Sophia Davis",
+      "date": "2024-11-22",
+      "headline": "Trends in Sustainable Fashion for 2024",
+      "tags": ["#Fashion", "#Sustainability"],
+      "reading_time": "6"
+    },
+    {
+      "unique_id": "8",
+      "coverImg": "https://i.ibb.co/mt6vNyj/4.jpg",
+      "author_img": "../src/assets/images/9.png",
+      "author_name": "James Wilson",
+      "date": "2024-11-21",
+      "headline": "How To Create a Successful Online Course",
+      "tags": ["#OnlineEducation", "#Learning"],
+      "reading_time": "5"
+    },
+    {
+      "unique_id": "9",
+      "coverImg": "https://i.ibb.co/RTmtqTL/5.jpg",
+      "author_img": "../src/assets/images/9.png",
+      "author_name": "Amelia Lewis",
+      "date": "2024-11-20",
+      "headline": "The Evolution of Social Media Algorithms",
+      "tags": ["#SocialMedia", "#Algorithms"],
+      "reading_time": "6"
+    },
+    {
+      "unique_id": "10",
+      "coverImg": "https://i.ibb.co/XYdnCGG/6.jpg",
+      "author_img": "../src/assets/images/9.png",
+      "author_name": "Lucas Martinez",
+      "date": "2024-11-19",
+      "headline": "Exploring the Impact of Cloud Computing",
+      "tags": ["#CloudComputing", "#TechTrends"],
+      "reading_time": "7"
+    }
+  ]
+  
